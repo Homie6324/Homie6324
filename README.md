@@ -1,6 +1,6 @@
 ### Hi, I'm Homie6324. 👋
 
-- 🔭 I’m currently studying on Northeastern University at Qinhuangdao(NEUQ). And my major is  .
+- 🔭 I’m currently studying on Northeastern University at Qinhuangdao(NEUQ). And my major is computer .
 - 🌱 I’m currently learning springboot.
 - ❤️ I like playing table tennis<img  height="25" src="https://user-images.githubusercontent.com/75943374/121049128-07ad3a80-c7ea-11eb-8cf8-af458763b878.png">
 - 📫 You can reach me by email: swang0652@gmail.com
